@@ -27,6 +27,6 @@ document.querySelector("button").addEventListener("click",function()
   {
     document.querySelector("h1").innerHTML = "Draw"
   }
-  document.querySelector("button").innerHTML = "Refresh to start";
+  document.querySelector("button").innerHTML = "Refresh the page to start";
 
 });
