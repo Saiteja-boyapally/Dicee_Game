@@ -10,7 +10,7 @@ document.querySelector("button").addEventListener("click",function()
 {
 
   document.querySelector("button").innerHTML = "PLAY"
-  console.log(diceImage1);
+//   console.log(diceImage1);
   document.querySelector(".img1").setAttribute("src",diceImage1);
   document.querySelector(".img2").setAttribute("src",diceImage2);
 
